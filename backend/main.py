@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"status": "Karvi AI is Live", "day": 1}
+    return {"status": "Karvi AI Online", "message": "Billion Dollar Journey Starts Now"}
