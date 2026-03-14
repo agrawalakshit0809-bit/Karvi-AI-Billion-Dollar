@@ -1,0 +1,9 @@
+get_inventory: Kitchen mein kitna khana bacha hai check karne ke liye.
+
+place_order: Customer ka order database mein save karne ke liye.
+
+send_notification: WhatsApp par confirm karne ke liye.
+
+get_user_preferences:
+
+check_delivery_status:
